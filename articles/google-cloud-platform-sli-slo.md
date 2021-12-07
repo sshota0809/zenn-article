@@ -3,7 +3,7 @@ title: "GCP の Cloud Monitoring を使って SLI/SLO を運用する"
 emoji: "🚨"
 type: "tech"
 topics: ["GCP", "SRE", "CloudMonitoring", "SLI", "SLO"]
-published: false
+published: true
 ---
 
 # 概要
